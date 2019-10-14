@@ -1,0 +1,9 @@
+    {
+      "tool-kconfig": [
+        {
+          "system": ["windows", "windows_amd64", "windows_x86"],
+          "url": "https://github.com/FastEmbedded/FEmbed-tools/raw/master/Kconfiglib-13.1.1.tar.gz",
+          "version": "13.1.1"
+        }
+      ]
+    }
