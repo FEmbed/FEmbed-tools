@@ -3,7 +3,7 @@
         {
           "system": ["windows", "windows_amd64", "windows_x86"],
           "sha1": "8d627b126928794116fff572e01a270e892bf0c1",
-          "url": "https://github.com/FastEmbedded/FEmbed-tools/raw/master/tool-kconfig-13.1.1.zip",
+          "url": "https://github.com/FastEmbedded/FEmbed-tools/raw/master/tool-kconfig-13.1.1.tar.gz",
           "version": "13.1.1"
         }
       ],
